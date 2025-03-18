@@ -26,7 +26,7 @@
    - 配备安卓 M的车载信息娱乐系统。
    - 使用不同版本的安卓（从安卓 6 到 14）的 Celadon 开源解决方案。
    - Deep Defender，与 McAfee 合作的项目。英特尔利用英特尔虚拟化技术提供 VMM 管理器，实现实时内存和 CPU 监控。
-## Trusty TEE on SOFIA
+### Trusty TEE on SOFIA
 - 主要开发者
 - 在英特尔移动平台 SOFIA 上实现 Trusty TEE 解决方案。
 - Trusty 是一个安全的操作系统（OS），为安卓提供了可信执行环境（TEE）。  

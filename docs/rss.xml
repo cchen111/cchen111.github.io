@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Chen's Blog</title><link>https://cchen111.github.io</link><description>Android安全，系统安全，DevSecOps，SDL，Threat Modeling安全建模，Pentest渗透测试，模糊测试</description><copyright>Chen's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://cchen111.github.io</link></image><lastBuildDate>Wed, 19 Mar 2025 02:37:09 +0000</lastBuildDate><managingEditor>Chen's Blog</managingEditor><ttl>60</ttl><webMaster>Chen's Blog</webMaster><item><title>Threat Modeling威胁建模</title><link>https://cchen111.github.io/post/Threat%20Modeling-wei-xie-jian-mo.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Chen's Blog</title><link>https://cchen111.github.io</link><description>Android安全，系统安全，DevSecOps，SDL，Threat Modeling安全建模，Pentest渗透测试，模糊测试</description><copyright>Chen's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://cchen111.github.io</link></image><lastBuildDate>Fri, 11 Apr 2025 01:04:18 +0000</lastBuildDate><managingEditor>Chen's Blog</managingEditor><ttl>60</ttl><webMaster>Chen's Blog</webMaster><item><title>Threat Modeling威胁建模</title><link>https://cchen111.github.io/post/Threat%20Modeling-wei-xie-jian-mo.html</link><description>
 ## 哪些目标需要威胁建模
 
 - 产品中安全相关的功能
@@ -11,7 +11,8 @@
 
 - 产品设计阶段（Design phase in SDLC）
    - 过晚做威胁建模分析，如果发现问题，解决问题成本较高。</description><guid isPermaLink="true">https://cchen111.github.io/post/Threat%20Modeling-wei-xie-jian-mo.html</guid><pubDate>Wed, 19 Mar 2025 02:31:09 +0000</pubDate></item><item><title>About Me</title><link>https://cchen111.github.io/about.html</link><description>  
- Updated [[Dec 25th, 2024]]
+ Updated [[Apr 11th, 2025]]
+
  ## 个人资料
 - 硕士/华东师范大学
 - 工作经验：12年
@@ -21,4 +22,4 @@
  ## 工作经验
  ### 英特尔  2012年6月 - 至今  上海
 
-- 英特尔中国 SATG/SSE/AEE 安全团队的安全研究员。</description><guid isPermaLink="true">https://cchen111.github.io/about.html</guid><pubDate>Tue, 18 Mar 2025 07:19:32 +0000</pubDate></item></channel></rss>
+- 英特尔中国 IPAS China安全团队的安全研究员。</description><guid isPermaLink="true">https://cchen111.github.io/about.html</guid><pubDate>Tue, 18 Mar 2025 07:19:32 +0000</pubDate></item></channel></rss>
